@@ -36,3 +36,13 @@ https://amzn.to/3ZraYT2
 Raspberry Pi Pico (Micro-controller)
 _This is not a Raspberry Pi classic_
 See https://github.com/EloiStree/2024_11_16_WowIntegerWorkshopPicoW
+
+
+Raspberry Pi 5 Module  
+_If you just need a cheap server, that could be a good solution that you can turn later to a board_  
+[![image](https://github.com/user-attachments/assets/41d6bb82-96c5-43a1-bf53-c7db36e054bd)](https://www.waveshare.com/compute-module-5.htm?sku=29486) 
+https://www.waveshare.com/compute-module-5.htm?sku=29486  
+[![image](https://github.com/user-attachments/assets/c2cd5841-49ce-45d8-948e-c6eb184ef32b)](https://youtu.be/X4blR5Ua3S0?t=115)
+https://youtu.be/X4blR5Ua3S0?t=115  
+
+
